@@ -9,7 +9,7 @@ const firebaseConfig = {
   storageBucket: "inlaid-stack-473817-h4.firebasestorage.app",
   messagingSenderId: "565359288723",
   appId: "1:565359288723:web:5e84780f39fb9b346fc866"
-  measurementId: "G-QVJ5YYEPG5"
+  
 };
 
 const app = initializeApp(firebaseConfig);
